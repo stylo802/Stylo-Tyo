@@ -1,4 +1,4 @@
-# Drawl Nag
+# Stylo-Tyo
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
